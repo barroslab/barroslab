@@ -1,0 +1,107 @@
+body{
+    background-color: #003657;
+    color: antiquewhite;
+    font-family: poppinsregular;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+    font-size: 15px;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+#title{
+    font-family: "Merienda", cursive;
+    flex-direction: column;
+    line-height: 15px;
+    border: 1px solid whitesmoke;
+    border-radius: 35px;
+    padding: 15px;
+}
+
+.conteudo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.texto{
+    width: 55%;
+    margin-left: 75px;
+    font-size: 10px
+}
+
+#footer{
+    flex-direction: column;
+    line-height: 15px;
+    margin: 5px;
+}
+
+li{
+    display: inline-block;
+    margin: 25px;
+}
+
+
+a{
+    font-family: poppinssemibold;
+    color: white;
+    transition: 0.5s;
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 17px;
+
+}
+
+a:hover{
+   color: #2fb3a9;
+   letter-spacing: 0.05em;  
+   background-color: white; 
+   border-radius: 15px;
+   padding: 10px;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;  
+
+}
+
+h2{
+    font-size: 56px;
+    font-family: poppinsmedium;
+}
+
+span{
+    color: #2fb3a9;
+}
+
+
+p{
+    font-size: 20px;
+    line-height: 35px;
+    max-width: 500px;
+    letter-spacing: 0.5px;
+    font-family: poppinsregular;
+}
+
+
+h7{
+    display: inline-block;
+    margin: 25px;
+    font-size: 15px;
+}
+h7:hover{
+    color: #2fb3a9;
+   letter-spacing: 0.05em;  
+   transition: 0.5s;
+}
