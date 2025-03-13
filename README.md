@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Barros</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Java and Kotlin**
+- 🌱 I’m currently learning **Java, Kotlin and Cybersecurity**
 
 - ⚡ Fun fact **I'm new to the programming area**
 
